@@ -65,7 +65,7 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
-In this Chisquare test, it shows that the P. value is of 0.0801, we can confirm these numbers by also looking at the Fisher's Exact Test for Count Data where it shows us that the true odds ratio is not equal to 1. This is not enough evidence that shows us that there IS a relationship between believing in The BigBang and believing in Postlife.
+In this Chisquare test, it shows that the P. value is of 0.0801, This is not enough evidence that shows us that there IS a relationship between believing in The BigBang and believing in Postlife.
 
 
 
@@ -73,7 +73,7 @@ In this Chisquare test, it shows that the P. value is of 0.0801, we can confirm 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-We have concluded that because the charts do not show enough evidence to prove that there IS relationship between believing in the BiBang and believing in postlife, and the charts gave us a P value of 0.0801 we FAIL TO REJECT THE NULL HYPOTHESIS, we do not have enough evidence to reject it.  
+The charts gave us a P value of 0.0801>0.05 we FAIL TO REJECT THE NULL HYPOTHESIS, we do not have enough evidence to reject it.  
 
 
 
